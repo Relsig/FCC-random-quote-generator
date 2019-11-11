@@ -28,7 +28,7 @@ const QuoteMachine = ({assignNewQuoteIndex, selectedQuote}) => (
                 target="_blank"
                 id="tweet-quote"
             >
-                <FontAwesomeIcon icon={faTwitter} size="small"/>
+                <FontAwesomeIcon icon={faTwitter} size="sm"/>
             </IconButton>
         </CardActions>
     </Card>
